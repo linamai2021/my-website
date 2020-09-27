@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <center>
-    <img src="https://github.com/linamai2021/my-website/blob/master/images/20190529_143505_IMG_5626.JPG?raw=true" alt="centered image" width="200" height="200" />
+    <img src="https://github.com/linamai2021/my-website/blob/master/images/20190529_143505_IMG_5626.JPG?raw=true" alt="centered image" width="500" height="500" />
 </center>
 
 

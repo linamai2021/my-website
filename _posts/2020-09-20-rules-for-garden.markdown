@@ -1,5 +1,14 @@
-2020-09-20-rules-for-garden.markdown
-Rules for Broadway Gardens in Chinese (Draft 1) 
+---
+layout: post
+title:  "Rules for Broadway Garden"
+date:   2020-09-20 12:10:48 -0700
+categories: jekyll update
+---
+
+<center>
+    <img src="https://github.com/linamai2021/my-website/blob/master/images/20190729_180837.jpg?raw=true" alt="centered image" width="500" height="500" />
+</center>
+
 请各位注意以下几点 
   
 一、严禁淋尿或用剩饭施肥。违规者一律将被取消在社区花园的参加资格。 
