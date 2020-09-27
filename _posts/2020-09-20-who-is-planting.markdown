@@ -5,7 +5,10 @@ date:   2020-08-30 12:10:48 -0700
 categories: jekyll update
 ---
 
-<img src="https://github.com/linamai2021/my-website/blob/master/images/20190529_143505_IMG_5626.JPG?raw=true" width="200" height="200" />
+<center>
+    <img src="https://github.com/linamai2021/my-website/blob/master/images/20190529_143505_IMG_5626.JPG?raw=true" alt="centered image" width="200" height="200" />
+</center>
+
 
 Who is planting at the garden? 
  
